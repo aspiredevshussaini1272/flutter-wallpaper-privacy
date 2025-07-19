@@ -2,7 +2,7 @@
 
 **Effective Date:** July 19, 2025
 
-This Privacy Policy explains how our NubelaPaper App ("we", "our", or "us") collects, uses, and protects your personal information.
+This Privacy Policy explains how our NebulaPaper App ("we", "our", or "us") collects, uses, and protects your personal information.
 
 ---
 
@@ -49,4 +49,4 @@ If you have any questions or concerns about this Privacy Policy, you can contact
 
 ---
 
-Thank you for using NubelaPaper App.
+Thank you for using NebulaPaper App.
