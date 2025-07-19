@@ -1,4 +1,4 @@
-# Privacy Policy -  NubelaPaper App
+# Privacy Policy -  NebulaPaper App
 
 **Effective Date:** July 19, 2025
 
